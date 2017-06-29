@@ -1,5 +1,4 @@
-require 'minitest/autorun'
-require '../problem_3/problem_3'
+require 'test_helper'
 
 class Problem3Test < Minitest::Test
   def test_greatest_prime_factor_returns_the_greatest_prime_factor_of_n
